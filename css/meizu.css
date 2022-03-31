@@ -1,0 +1,187 @@
+/*导航条样式开始*/
+.nav{
+    width: 100%;
+    height: 82px;
+    background-color: #C21923;
+}
+.nav li{
+    float: left;
+    font-size: 14px;
+    line-height: 21px;
+    margin: 31px 20px 30px;
+}
+.nav a{
+    color: #fff;
+}
+.nav a:hover{
+    color: #008cff;
+}
+/*导航条样式结束*/
+/*banner样式开始*/
+.banner{
+    width: 100%;
+    height: 670px;
+    background: url("../images/d12d61d0-247b-4e7f-9e2e-40aa37b0713c.jpg") center no-repeat;
+}
+/*banner样式结束*/
+/*广告样式开始*/
+.ad{
+    width: 100%;
+    height: 232px;
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 45px;
+}
+.wrap{
+    width: 1240px;
+    margin: 0 auto;
+}
+.ad-box{
+    width: 310px;
+    height:187px;
+    float: left;
+    padding-top: 45px;
+}
+.goods-img{
+    width: 130px;
+}
+.goods-name{
+    color: #333;
+    font-size: 20px;
+    height: 30px;
+}
+.goods-desc{
+    color: #999;
+    font-size: 14px;
+    height: 21px;
+}
+/*广告样式结束*/
+/*主体样式开始*/
+.content{
+    width: 100%;
+    background-color: #f4f4f4;
+}
+/*主体样式结束*/
+/*手机样式开始*/
+.title{
+    font-size: 30px;
+    font-weight: 400;
+    height: 45px;
+    margin-bottom: 10px;
+    padding-top: 50px;
+}
+.ad-img{
+    width: 100%;
+    height: 450px;
+    background: url("../images/fd6ccf5b-aecf-4053-9729-a9cc26936720.jpg") center no-repeat;
+}
+.ad-img:hover{
+    opacity: .85;
+}
+.phone-box{
+    width: 100%;
+    height: 1005px;
+}
+.phone-box-top{
+    width: 100%;
+    height: 610px;
+    margin-top: 10px;
+}
+.phone-box-bottom{
+    width: 100%;
+    height: 375px;
+}
+.p-top-box{
+    width: 615px;
+    height: 610px;
+    background-color: #fff;
+    float: left;
+}
+.p-bottom-box{
+    width: 303px;
+    height: 375px;
+    background-color: #fff;
+    float: left;
+    margin-top: 10px;
+}
+.phone-box-top>div:first-child{
+    margin-right: 10px;
+}
+.phone-name{
+    color: #333;
+    font-size: 28px;
+    height: 42px;
+    padding-top: 58px;
+}
+.phone-desc{
+    color: #333;
+    font-size: 18px;
+    height: 27px;
+}
+.price{
+    color: #c00;
+    font-size: 22px;
+}
+.fh{
+    font-size: 14px;
+}
+.phone-img{
+    width: 460px;
+}
+.img{
+    width: 230px;
+    margin-top: 30px;
+}
+.name{
+    color: #333;
+    height: 23px;
+}
+.desc{
+    color: #999;
+    font-size: 14px;
+    height: 21px;
+}
+.phone-box-bottom>div{
+    margin-right: 9px;
+}
+.phone-box-bottom>div:last-child{
+    margin-right: 0;
+}
+/*手机样式结束*/
+/*魅族声学样式开始*/
+.ad-img1{
+    background-image: url("../images/d26392c2-62c8-4f12-8650-cebfb34734d4.jpg");
+}
+.voice-box{
+    width: 100%;
+    height: 1155px;
+}
+.items{
+    width: 303px;
+    height: 375px;
+    background-color: #fff;
+    float: left;
+    margin-top: 10px;
+    margin-right: 9px;
+}
+.voice-img{
+    width: 100%;
+}
+.items:nth-child(4n){
+    margin-right: 0;
+}
+/*魅族声学样式结束*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
